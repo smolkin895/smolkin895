@@ -4,6 +4,11 @@
    <a href="https://github.com/smolkin895/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smolkin895&layout=compact"/></a>
 </p>
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/smolkin895/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=smolkin895&color=DE002D">
+   </a>
+</div>
 <!--
 **smolkin895/smolkin895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
