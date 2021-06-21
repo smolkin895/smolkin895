@@ -1,7 +1,9 @@
-
-### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smolkin895&theme=buefy)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
-
-
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=smolkin895&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=smolkin895&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/smolkin895/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=smolkin895&layout=compact"/></a>
+</p>
 <!--
 **smolkin895/smolkin895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
